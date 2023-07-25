@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Example.Background.Service": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "<enter key>"
+      }
+    }
+  }
+}
